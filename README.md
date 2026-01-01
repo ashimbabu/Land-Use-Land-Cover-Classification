@@ -1,1 +1,1 @@
-This repository presents a Land Use and Land Cover (LULC) classification workflow implemented in Google Earth Engine, leveraging satellite imagery and supervised machine learning techniques for geospatial analysis.
+This repository presents a Land Use and Land Cover (LULC) classification workflow implemented in Google Earth Engine, leveraging satellite imagery and supervised machine learning techniques for geospatial analysis.   
