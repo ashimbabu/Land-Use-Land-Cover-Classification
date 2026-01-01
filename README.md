@@ -1,1 +1,1 @@
-This is my first Land Use Land Cover Classification Google Earth Engine Code.
+This repository presents a Land Use and Land Cover (LULC) classification workflow implemented in Google Earth Engine, leveraging satellite imagery and supervised machine learning techniques for geospatial analysis.
